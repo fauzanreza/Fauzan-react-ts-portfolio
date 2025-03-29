@@ -26,7 +26,7 @@ const Hero = ({ setIsContactOpen }: HeroProps) => {
             <h2 className="text-2xl md:text-3xl font-medium text-muted-foreground">
               I am a{" "}
               <TypeAnimation
-                strings={["Fullstack Dev", "Web Designer", "UX Designer"]}
+                strings={["Fullstack Dev", "Web Dev", "Programmer", "Coding Enthusiast"]}
                 speed={100}
                 className="font-semibold text-foreground"
               />
