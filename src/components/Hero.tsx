@@ -62,7 +62,7 @@ const Hero = ({ setIsContactOpen }: HeroProps) => {
             <div className="relative w-56 h-56 md:w-70 md:h-70 lg:w-96 lg:h-96 mx-auto overflow-hidden rounded-full bg-primary/10">
               <div className="absolute inset-0 w-full h-full rounded-full bg-primary/20 animate-pulse-light z-0"></div>
               <img
-                src={"././public/profile.PNG"}
+                src={"././profile.PNG"}
                 alt="Profile"
                 className="w-full h-full object-cover object-center rounded-full relative z-10"
               />
