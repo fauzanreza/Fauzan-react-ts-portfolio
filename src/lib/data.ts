@@ -62,7 +62,7 @@ export const projectsData = [
     id: 1,
     title: "iPlatinum",
     description: "A website to manage research and community service projects, including grant applications and progress tracking in Telkom University.",
-    image: "../../public/iplatinum.png",
+    image: "././public/iplatinum.PNG",
     techs: ["PHP", "YII2", "MySQL"],
     category: "web",
     type: "client",
