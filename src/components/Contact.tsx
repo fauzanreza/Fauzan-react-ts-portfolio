@@ -96,7 +96,7 @@ const Contact = () => {
         <div className="bg-card p-6 rounded-lg border border-border/40 shadow-sm">
           <h3 className="text-xl font-bold mb-6">Send Message</h3>
           <img
-                src={"../../public/qr-wa.jpeg"}
+                src={"../../qr-wa.jpeg"}
                 alt="QR WA"
                 className="w-64 h-64"
               />

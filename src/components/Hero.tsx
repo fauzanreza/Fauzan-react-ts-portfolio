@@ -46,7 +46,7 @@ const Hero = ({ setIsContactOpen }: HeroProps) => {
                 size="lg"
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "../../public/CV_ATS_Fauzan Reza Arnanda-2.pdf";
+                  link.href = "../../CV_ATS_Fauzan Reza Arnanda-2.pdf";
                   link.download = "CV_ATS_Fauzan Reza Arnanda-2.pdf";
                   link.click();
                 }}
